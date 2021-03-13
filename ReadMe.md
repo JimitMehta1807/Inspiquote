@@ -61,5 +61,5 @@
 Always open for new features just create an issue. If want to add a new feature via pull request please make a separate branch for it.
 > If you want to run it locally, add credentials.py with all the Twitter, Unsplash and FavQ's Keys 🔑. Import it to relevant files in Resources module with config.py in bots. Additional individual test file functions are provided as well.
 
-## Wishing you a productive day 🎯 😁. If you got motivated considering giving it a 🌟.
+## Wishing you a productive day 🎯 . If you got motivated considering giving it a 🌟.
 
